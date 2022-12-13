@@ -1,0 +1,28 @@
+{
+    "configs": {
+        "CONFIG-0": {
+            "datatype": "dcm_study",
+            "description": "",
+            "filename": "config_0_0.json",
+            "metafilename": "config_0_0.json",
+            "module": "MODULE-0",
+            "name": "MR_GeomAcc",
+            "origin": "user"
+        }
+    },
+    "info": {
+        "dbversion": "20180316",
+        "magic": "wad-qc-export"
+    },
+    "modules": {
+        "MODULE-0": {
+            "description": "",
+            "executable": "GeomAcc_analysis.py",
+            "folder": "module_0",
+            "name": "MR_GeomAcc",
+            "origin": "user",
+            "repo_url": "",
+            "repo_version": ""
+        }
+    }
+}
